@@ -44,7 +44,12 @@ group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
   gem "pry"
   gem "rspec-rails"
-  gem "shoulda-matchers"
+  gem "shoulda-matchers", "~> 6.4"
+end
+
+group :test do
+  gem "webmock"
+  gem "vcr"
 end
 
 group :development do
@@ -53,3 +58,4 @@ group :development do
 end
 
 gem 'simplecov', require: false, group: :test
+
