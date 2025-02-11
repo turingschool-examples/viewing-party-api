@@ -1,0 +1,156 @@
+{
+  "results": [
+      {
+          "id": "839033",
+          "type": "movie",
+          "attributes": {
+              "title": "The Lord of the Rings: The War of the Rohirrim",
+              "vote_average": 6.638
+          }
+      },
+      {
+          "id": "122",
+          "type": "movie",
+          "attributes": {
+              "title": "The Lord of the Rings: The Return of the King",
+              "vote_average": 8.484
+          }
+      },
+      {
+          "id": "120",
+          "type": "movie",
+          "attributes": {
+              "title": "The Lord of the Rings: The Fellowship of the Ring",
+              "vote_average": 8.418
+          }
+      },
+      {
+          "id": "121",
+          "type": "movie",
+          "attributes": {
+              "title": "The Lord of the Rings: The Two Towers",
+              "vote_average": 8.4
+          }
+      },
+      {
+          "id": "123",
+          "type": "movie",
+          "attributes": {
+              "title": "The Lord of the Rings",
+              "vote_average": 6.6
+          }
+      },
+      {
+          "id": "1016184",
+          "type": "movie",
+          "attributes": {
+              "title": "The Lord of the Rings: The Rings of Power Global Fan Screening",
+              "vote_average": 7.0
+          }
+      },
+      {
+          "id": "453779",
+          "type": "movie",
+          "attributes": {
+              "title": "A Passage to Middle-Earth: Making of 'Lord of the Rings'",
+              "vote_average": 6.8
+          }
+      },
+      {
+          "id": "1090869",
+          "type": "movie",
+          "attributes": {
+              "title": "Lord of the Rings: The Hunt for Gollum",
+              "vote_average": 0.0
+          }
+      },
+      {
+          "id": "1035526",
+          "type": "movie",
+          "attributes": {
+              "title": "Forging Through the Darkness: The Ralph Bakshi Vision for 'The Lord of the Rings'",
+              "vote_average": 10.0
+          }
+      },
+      {
+          "id": "651342",
+          "type": "movie",
+          "attributes": {
+              "title": "J.R.R. Tolkien and the Birth of \"The Lord of the Rings\" and \"The Hobbit\"",
+              "vote_average": 5.583
+          }
+      },
+      {
+          "id": "945739",
+          "type": "movie",
+          "attributes": {
+              "title": "Darla's Book Club: Discussing the Lord of the Rings",
+              "vote_average": 10.0
+          }
+      },
+      {
+          "id": "296260",
+          "type": "movie",
+          "attributes": {
+              "title": "Master of the Rings: The Unauthorized Story Behind J.R.R. Tolkien's \"Lord of the Rings\"",
+              "vote_average": 8.4
+          }
+      },
+      {
+          "id": "155586",
+          "type": "movie",
+          "attributes": {
+              "title": "Creating the Lord of the Rings Symphony",
+              "vote_average": 6.9
+          }
+      },
+      {
+          "id": "1428837",
+          "type": "movie",
+          "attributes": {
+              "title": "Howard Shore Weekend  - The Lord of the Rings",
+              "vote_average": 0.0
+          }
+      },
+      {
+          "id": "1264381",
+          "type": "movie",
+          "attributes": {
+              "title": "The Lord of the Rings the Musical - Original London Production - Promotional Documentary",
+              "vote_average": 10.0
+          }
+      },
+      {
+          "id": "1362",
+          "type": "movie",
+          "attributes": {
+              "title": "The Hobbit",
+              "vote_average": 6.6
+          }
+      },
+      {
+          "id": "1361",
+          "type": "movie",
+          "attributes": {
+              "title": "The Return of the King",
+              "vote_average": 6.4
+          }
+      },
+      {
+          "id": "573089",
+          "type": "movie",
+          "attributes": {
+              "title": "The Quest Fulfilled: A Director's Vision",
+              "vote_average": 6.4
+          }
+      },
+      {
+          "id": "622231",
+          "type": "movie",
+          "attributes": {
+              "title": "The Making of The Fellowship of the Ring",
+              "vote_average": 8.9
+          }
+      }
+  ]
+}
